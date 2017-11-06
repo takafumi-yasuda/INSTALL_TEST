@@ -10,7 +10,7 @@ package JavaSource;
 public class Otameshi {
 
 
-	/**コンストラクター*/
+	/**ﾆ坦ﾆ停愴湛ﾆ暖ﾆ停ｰﾆ誰ﾆ耽ﾂー*/
 	public Otameshi() {
 		super();
 	}
@@ -18,7 +18,7 @@ public class Otameshi {
 	public int add(int a, int b) {
 		int ret;
 
-		ret = a + b;
+		ret = a + b + 1;
 
 		return ret;
 	}
