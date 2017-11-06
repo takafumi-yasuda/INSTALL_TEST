@@ -18,7 +18,7 @@ public class Otameshi {
 	public int add(int a, int b) {
 		int ret;
 
-		ret = a + b + 2;
+		ret = a + b;
 
 		return ret;
 	}
