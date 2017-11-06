@@ -15,12 +15,4 @@ public class Otameshi {
 		super();
 	}
 
-	public int add(int a, int b) {
-		int ret;
-
-		ret = a + b + 1;
-
-		return ret;
-	}
-
 }
