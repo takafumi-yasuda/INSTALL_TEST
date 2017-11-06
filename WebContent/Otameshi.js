@@ -11,7 +11,7 @@ btn.onclick = function(){
 	}
 	else {
 		inp.style.backgroundColor = "#ffffff";
-		alert("「"+input.value + "」と入力しました。");
+		alert("「"+input.value + "」と入力されました。");
 	}
 
 var btn2 = document.getElementById("btn2");
